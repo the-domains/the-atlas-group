@@ -1,0 +1,28 @@
+name: The Atlas Group
+favicon: null
+layout_spectrum: 0.8406725714448839
+typography_spectrum: 0.33790965587832034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6743652112782001
+  lightness: 0.8431240923237056
+  saturation: 0.44315724913030863
+  rhythmicContrast: 0.14987058099359274
+purpose: []
